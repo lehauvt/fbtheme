@@ -746,6 +746,21 @@
     .registration #reg_form_box .inputtext._58mg {
     color:#000
     }
+
+
+    /* Chat Animation */
+    ._6ng3[style="background-color: rgb(255, 92, 161); display: inline-block; border-radius: 50%;"],
+    ._5dr4[style="background-color: rgb(236, 126, 189);"],
+    ._1aa6[style="background-color: rgb(255, 92, 161);"] {
+        background: -webkit-linear-gradient(-45deg, #1a2a6c, #b21f1f, #F27121, #ff0080) !important;
+        background: linear-gradient(-45deg, #1a2a6c, #b21f1f, #F27121, #ff0080) !important;
+        background-size: 400% 400% !important;
+        -webkit-animation: Gradient 15s ease infinite !important;
+        -moz-animation: Gradient 15s ease infinite !important;
+        animation: Gradient 15s ease infinite !important
+    }
+
+
     ._6ng3[style="background-color: rgb(166, 149, 199); display: inline-block; border-radius: 50%;"],
     ._5dr4[style="background-color: rgb(175, 156, 218);"],._1aa6[style="background-color: rgb(166, 149, 199);"] {
     background:linear-gradient(-45deg,#EE7752,#E73C7E,#23A6D5,#23D5AB)!important;
